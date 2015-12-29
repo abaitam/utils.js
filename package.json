@@ -1,0 +1,19 @@
+{
+  "name": "utils.js",
+  "version": "1.0.0",
+  "description": "Forked repo form Scripting to learn js testing",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abaitam/utils.js.git"
+  },
+  "author": "Ali Baitam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abaitam/utils.js/issues"
+  },
+  "homepage": "https://github.com/abaitam/utils.js#readme"
+}
