@@ -4,7 +4,8 @@
   "description": "Forked repo form Scripting to learn js testing",
   "main": "utils.js",
   "scripts": {
-    "test": "utilstests.js"
+    "test": "npm run test-node",
+    "test-node": "node utilstests.js"
   },
   "repository": {
     "type": "git",
